@@ -29,7 +29,10 @@ author :
 production_url : http://2peta.github.io
 
 #
-markdown: kramdown
+#markdown: kramdown
+
+# encoding
+encoding: utf-8
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
